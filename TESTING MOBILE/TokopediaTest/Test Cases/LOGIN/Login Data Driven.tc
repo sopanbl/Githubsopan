@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Data Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af17a0c4-bd78-41b7-8ecc-d59c80061fb1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4b3da73f-1a07-436f-ab67-a0a4bc447445</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b9343a33-e4e2-476d-9138-1faa6167cebc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e4f00c07-6648-4e89-8035-aa97be0abc35</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4b3da73f-1a07-436f-ab67-a0a4bc447445</id>
+      <masked>false</masked>
+      <name>verify</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b9343a33-e4e2-476d-9138-1faa6167cebc</id>
+      <masked>false</masked>
+      <name>EmailLogin</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e4f00c07-6648-4e89-8035-aa97be0abc35</id>
+      <masked>false</masked>
+      <name>ValueAttribute</name>
+   </variable>
+</TestCaseEntity>

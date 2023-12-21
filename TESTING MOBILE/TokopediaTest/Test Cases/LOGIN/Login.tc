@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9f1bd82-08b0-4eca-8a75-445ff0f78f31</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0ee0e396-3acf-45b7-982c-2328deb8a672</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0ee0e396-3acf-45b7-982c-2328deb8a672</id>
+      <masked>false</masked>
+      <name>verify</name>
+   </variable>
+</TestCaseEntity>

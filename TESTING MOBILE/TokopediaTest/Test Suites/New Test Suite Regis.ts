@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>New Test Suite Regis</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>c1539382-f25c-4da3-af0f-a3762dfac3d9</testSuiteGuid>
+   <testCaseLink>
+      <guid>20f2e603-068a-4ec9-a457-ae2bc3126853</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>490883d2-06eb-422b-af27-c85b575bd900</id>
+         <masked>false</masked>
+         <name>Nama</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/RegisterTokped/Register - Copy</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>861baaeb-8d4e-42a0-81d0-405f7b9982f3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Register Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d323ec44-808b-4a1e-8043-ab96b59d369b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>861baaeb-8d4e-42a0-81d0-405f7b9982f3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Nama</value>
+         <variableId>490883d2-06eb-422b-af27-c85b575bd900</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>861baaeb-8d4e-42a0-81d0-405f7b9982f3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>1fde7493-da37-4847-876f-ff408650f1a2</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
